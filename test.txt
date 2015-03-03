@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 10C9-78F4
+
+ Directory of C:\repotest\r2
+
+2015-03-03  19:22    <DIR>          .
+2015-03-03  19:22    <DIR>          ..
+2015-03-03  19:22                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  46,129,586,176 bytes free
